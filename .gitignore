@@ -1,0 +1,10 @@
+# Ignore specific files
+
+# Ignore specific file patterns
+*.pyc
+*.swp
+
+# Ignore specific folders
+__pycache__
+
+# Ignore specific folder patterns
